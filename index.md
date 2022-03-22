@@ -3,6 +3,10 @@ layout: default
 ---
 # Hi
 
-My name is Marc.
+# About these Notes
+this is an experiment based on the work of andy
 
-## hope you have fun exploring and finding nothing
+These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
+
+### a bunch of links
+[[Latex in Zettr]]
