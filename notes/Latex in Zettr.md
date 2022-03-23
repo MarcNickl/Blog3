@@ -1,7 +1,7 @@
 # Latex in Zettr
 Created: 2022-03-12 20:09
-[FilmProductionYear3]
-[essays] 
+[[Film Production Year 3]] 
+[[Essays]] 
 # Template
 
 Some regular text here, and here's the code example:
@@ -51,4 +51,3 @@ geometry:
 
 ## References
 1. https://github.com/Zettlr/Zettlr/discussions/2849
-2. 
