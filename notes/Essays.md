@@ -1,3 +1,7 @@
 ---
 title: Essays
 ---
+
+# Essays
+
+YAY!
