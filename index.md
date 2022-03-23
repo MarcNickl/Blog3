@@ -6,5 +6,7 @@ The purpose of the site is to be a blog without links or any a tradition form of
 
 Why? Well for the fun of it. However if your intrested in reading my notes this might be a good starting point.
 
+this site is also really under developed so dont wast your time
+
 ##### a bunch of links
 - [[Latex in Zettr]]
