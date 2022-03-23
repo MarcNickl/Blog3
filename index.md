@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-# Hi
+Hi, My name is Marc, I am working toward being a cinematographer (might already be by the time you have read this).
+The purpose of the site is to be a blog without links or any a tradition form of navigation.
 
-# About these Notes
-this is an experiment based on the work of andy
+Why? Well for the fun of it. However if your intrested in reading my notes this might be a good starting point.
 
-These are some fake notes. Feel free to poke around. You may spot an [[easter egg]]  or two! Also, I like [[food]].
-
-### a bunch of links
-[[Latex in Zettr]]
+##### a bunch of links
+- [[Latex in Zettr]]
