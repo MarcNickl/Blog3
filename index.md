@@ -8,5 +8,9 @@ Why? Well for the fun of it. However if your intrested in reading my notes this 
 
 this site is also really under developed so dont wast your time
 
+also all spelling mistakes are fine :)
+
+
 ##### a bunch of links
 - [[Latex in Zettr]]
+- [Main Portfolio](https://www.marcnickl.com/)

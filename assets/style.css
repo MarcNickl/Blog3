@@ -1,5 +1,5 @@
 :root {
-    --accent: #0deb71;
+    --accent: #616161;
     --grey: #444;
 }
 
@@ -57,7 +57,7 @@ main {
 .page-footer {
     text-align: center;
     margin-bottom: 8px;
-    color: ;
+    color: black;
 }
 
 a[href] {
