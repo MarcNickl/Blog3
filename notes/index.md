@@ -14,3 +14,4 @@ also all spelling mistakes are fine :)
 ##### a bunch of links
 - [[Latex in Zettr]]
 - [Main Portfolio](marcnickl.com)
+- [[About Me]]
