@@ -10,7 +10,7 @@ title: Essays
 am still trying to fiure out how to embed essays into the blog
 
 ### [[Film Production Year 2]]
-
+Quite Proud of the Essay compaireing Herzog and Broomfield will need to figure a way to post it
 
 
 ### [[Film Production Year 3]]
